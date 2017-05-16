@@ -1,11 +1,11 @@
 body {
     padding-top: 45px;
-    color: #000080;
+    color: #323299;
 }
 
 .jumbotron {
     min-height: 190px;
-    background-color: #000080;
+    background-color: #323299;
 }
 
 .other-logo {
@@ -20,7 +20,7 @@ hr {
 }
 
 .btn-custom {
-    background-color: #5a0000;
+    background-color: #323299;
     border-color: #fff0ae;
     border-width: 2px;
     width: 30%;
@@ -29,7 +29,7 @@ hr {
 }
 
 .btn-custom:hover {
-    background-color: #360000;
+    background-color: #000080;
     border-color: #fff0ae;
 }
 
@@ -41,7 +41,7 @@ hr {
 .navbar-inverse .navbar-nav>.active>a, 
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
-	background-color: #000080;
+	background-color: #323299;
 	color: #ffe8d4;
 	border-color: #323299;
 }
