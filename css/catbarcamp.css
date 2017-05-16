@@ -34,8 +34,8 @@ hr {
 }
 
 .navbar-inverse {
-	background-color: #5a0000;
-	border-color: #4c0000;
+	background-color: #323299 ;
+	border-color: #323299 ;
 }
 
 .navbar-inverse .navbar-nav>.active>a, 
@@ -43,7 +43,7 @@ hr {
 .navbar-inverse .navbar-nav>.active>a:focus {
 	background-color: #000080;
 	color: #ffe8d4;
-	border-color: #4c0000;
+	border-color: #323299;
 }
 
 .other-logo.center-block {
