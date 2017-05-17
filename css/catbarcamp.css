@@ -28,6 +28,18 @@ hr {
     margin-right: auto;
 }
 
+.btn-primary {
+    background-color: #000080;
+}
+
+.btn-lg {
+    background-color: #000080;
+}
+
+.btn-block {
+    background-color: #000080;
+}
+
 .btn-custom:hover {
     background-color: #000080;
     border-color: #fff0ae;
