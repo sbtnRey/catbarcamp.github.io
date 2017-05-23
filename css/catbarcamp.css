@@ -29,13 +29,13 @@ hr {
 }
 
 .btn-custom:hover {
-    background-color: #360000;
+    background-color: #000080;
     border-color: #fff0ae;
 }
 
 .navbar-inverse {
-	background-color: #5a0000;
-	border-color: #4c0000;
+	background-color: #000080;
+	border-color: #000080;
 }
 
 .navbar-inverse .navbar-nav>.active>a,
@@ -43,7 +43,7 @@ hr {
 .navbar-inverse .navbar-nav>.active>a:focus {
 	background-color: #000080;
 	color: #ffe8d4;
-	border-color: #4c0000;
+	border-color: #000080;
 }
 
 .other-logo.center-block {
