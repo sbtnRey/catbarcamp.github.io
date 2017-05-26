@@ -5,7 +5,7 @@ body {
 
 .jumbotron {
     min-height: 190px;
-    background-color: #000080;
+    background-color: #074D8D;
 }
 
 .other-logo {
@@ -46,8 +46,8 @@ hr {
 }
 
 .navbar-inverse {
-	background-color: #000080;
-	border-color: #000080;
+	background-color: #082D97;
+	border-color: #082D97;
 }
 
 .navbar-inverse .navbar-nav>.active>a,
