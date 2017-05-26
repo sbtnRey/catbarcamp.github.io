@@ -29,19 +29,19 @@ hr {
 }
 
 .btn-primary {
-    background-color: #000080;
+    background-color: #074D8D;
 }
 
 .btn-lg {
-    background-color: #000080;
+    background-color: #074D8D;
 }
 
 .btn-block {
-    background-color: #000080;
+    background-color: #074D8D;
 }
 
 .btn-custom:hover {
-    background-color: #000080;
+    background-color: #074D8D;
     border-color: #fff0ae;
 }
 
@@ -53,9 +53,9 @@ hr {
 .navbar-inverse .navbar-nav>.active>a,
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>.active>a:focus {
-	background-color: #000080;
+	background-color: #074D8D;
 	color: #ffe8d4;
-	border-color: #000080;
+	border-color: #074D8D;
 }
 
 .other-logo.center-block {
